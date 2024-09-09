@@ -8,7 +8,7 @@
 **Disclaimer:** This community-maintained repo is designed for Solana Radar Hackathon participants and does not reflect the views of any official entity.
 
 <!--lint disable remark-lint:no-emphasis-as-heading -->
-**Contributing:** Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/solana-developers/awesome-blinks/graphs/contributors).
+**Contributing:** Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [contributors](https://github.com/tkorkmazeth/awesome-radar-hackathon/graphs/contributors).
 
 ## Contents
 
